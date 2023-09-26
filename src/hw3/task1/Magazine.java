@@ -6,8 +6,7 @@ import lombok.AllArgsConstructor;
 public class Magazine implements Printable{
     public String name;
     @Override
-    public boolean print() {
+    public void print() {
         System.out.println("Друкую журнал: " + name);
-        return false;
     }
 }

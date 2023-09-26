@@ -8,8 +8,7 @@ public class Book implements Printable{
     public String title;
 
     @Override
-    public boolean print() {
+    public void print() {
         System.out.println("Друкую книгу: " + "pages: " + pages + "  " + "title: " + title);
-        return false;
     }
 }
