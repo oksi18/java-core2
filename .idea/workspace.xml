@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6407ceac-bbb0-49f8-983d-d5f403f8cd05" name="Changes" comment="hw3.task2">
-      <change afterPath="$PROJECT_DIR$/src/hw4/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4/task1/Users.java" afterDir="false" />
+    <list default="true" id="6407ceac-bbb0-49f8-983d-d5f403f8cd05" name="Changes" comment="hw4.task1">
+      <change afterPath="$PROJECT_DIR$/src/hw4/task2/Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw4/task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hw4.task1.Main">
+  <component name="RunManager" selected="Application.hw4.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw3.task1.Main" />
       <module name="java-core2" />
@@ -86,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw4.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw4.task2.Main" />
+      <module name="java-core2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw4.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw4.task2.Main" />
         <item itemvalue="Application.hw4.task1.Main" />
         <item itemvalue="Application.hw3.task2.Main" />
         <item itemvalue="Application.Main" />
@@ -103,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695708150740</updated>
       <workItem from="1695708152380" duration="3660000" />
-      <workItem from="1695892274982" duration="3322000" />
+      <workItem from="1695892274982" duration="6379000" />
     </task>
     <task id="LOCAL-00001" summary="hw3.task1">
       <created>1695709672575</created>
@@ -126,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695710775377</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw4.task1">
+      <created>1695905478022</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695905478022</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +168,7 @@
     <MESSAGE value="hw3.task1" />
     <MESSAGE value="hw3.task1 with void" />
     <MESSAGE value="hw3.task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3.task2" />
+    <MESSAGE value="hw4.task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4.task1" />
   </component>
 </project>
