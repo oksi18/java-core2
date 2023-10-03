@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6407ceac-bbb0-49f8-983d-d5f403f8cd05" name="Changes" comment="hw4.task2">
-      <change afterPath="$PROJECT_DIR$/src/hw4/task3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4/task3/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4/task3/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw4/task3/User.java" afterDir="false" />
+    <list default="true" id="6407ceac-bbb0-49f8-983d-d5f403f8cd05" name="Changes" comment="hw4.task3">
+      <change afterPath="$PROJECT_DIR$/src/hw4/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw4/task4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw4/task4/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw4/task4/ZooClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw5/task1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hw4.task3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw3.task1.Main" />
-      <module name="java-core2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw3.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hw5.task1.Main">
     <configuration name="hw3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw3.task2.Main" />
       <module name="java-core2" />
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw5.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw5.task1.Main" />
+      <module name="java-core2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw5.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw5.task1.Main" />
         <item itemvalue="Application.hw4.task3.Main" />
         <item itemvalue="Application.hw4.task2.Main" />
         <item itemvalue="Application.hw4.task1.Main" />
         <item itemvalue="Application.hw3.task2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <updated>1695708150740</updated>
       <workItem from="1695708152380" duration="3660000" />
       <workItem from="1695892274982" duration="13707000" />
-      <workItem from="1696333660167" duration="2004000" />
+      <workItem from="1696333660167" duration="4524000" />
     </task>
     <task id="LOCAL-00001" summary="hw3.task1">
       <created>1695709672575</created>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695908555916</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw4.task3">
+      <created>1696335972347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696335972347</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +203,17 @@
     <MESSAGE value="hw3.task2" />
     <MESSAGE value="hw4.task1" />
     <MESSAGE value="hw4.task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw4.task2" />
+    <MESSAGE value="hw4.task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4.task3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
